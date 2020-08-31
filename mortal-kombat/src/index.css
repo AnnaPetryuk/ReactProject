@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3 {
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.wrapper {
+  background-color: #b5b1af;
+}
+
+#hero_1:focus ~ #label_1,
+#hero_2:focus ~ #label_2,
+#hero_3:focus ~ #label_3,
+#hero_4:focus ~ #label_4,
+#hero_5:focus ~ #label_5,
+#hero_6:focus ~ #label_6,
+#hero_7:focus ~ #label_7,
+#hero_8:focus ~ #label_8,
+#hero_9:focus ~ #label_9,
+#hero_10:focus ~ #label_10,
+#hero_11:focus ~ #label_11,
+#hero_12:focus ~ #label_12,
+#hero_13:focus ~ #label_13,
+#hero_14:focus ~ #label_14,
+#hero_15:focus ~ #label_15,
+#hero_16:focus ~ #label_16,
+#hero_17:focus ~ #label_17,
+#hero_18:focus ~ #label_18,
+#hero_19:focus ~ #label_19,
+#hero_20:focus ~ #label_20,
+#hero_21:focus ~ #label_21,
+#hero_22:focus ~ #label_22,
+#hero_23:focus ~ #label_23,
+#hero_24:focus ~ #label_24 {
+  outline: 3px solid red;   
+}
+
+#b_1:focus ~ #icon_1,
+#b_2:focus ~ #icon_2,
+#b_3:focus ~ #icon_3,
+#b_4:focus ~ #icon_4,
+#b_5:focus ~ #icon_5,
+#b_6:focus ~ #icon_6 {
+  border: 1px solid red;
+  background: yellow;
+}

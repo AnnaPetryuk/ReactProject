@@ -1,0 +1,146 @@
+[
+	{
+		"id": 1,
+		"name": "Scorpion",
+		"minImg": "/Scorpion_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 2,
+		"name": "Liu Kang",
+		"minImg": "/LiuKang_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 3,
+		"name": "Kung Lao",
+		"minImg": "/KungLao_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 4,
+		"name": "Sub-Zero",
+		"minImg": "/SubZero_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 5,
+		"name": "Sindel",
+		"minImg": "/Sindel_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 6,
+		"name": "Ermac",
+		"minImg": "/Ermac_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 7,
+		"name": "Reptile",
+		"minImg": "/Reptile_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 8,
+		"name": "Kitana",
+		"minImg": "/Kitana_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 9,
+		"name": "Johnny Cage",
+		"minImg": "/JohnnyCage_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 10,
+		"name": "Jade",
+		"minImg": "/Jade_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 11,
+		"name": "Mileena",
+		"minImg": "/Mileena_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 12,
+		"name": "Nightwolf",
+		"minImg": "/Nightwolf_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 13,
+		"name": "Cyrax",
+		"minImg": "/Cyrax_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 14,
+		"name": "Noob Saibot",
+		"minImg": "/NoobSaibot_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 15,
+		"name": "Smoke",
+		"minImg": "/Smoke_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 16,
+		"name": "Sektor",
+		"minImg": "/Sektor_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 17,
+		"name": "Sonya Blade",
+		"minImg": "/SonyaBlade_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 18,
+		"name": "Jax",
+		"minImg": "/Jax_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 19,
+		"name": "Kano",
+		"minImg": "/Kano_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 20,
+		"name": "Stryker",
+		"minImg": "/Stryker_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 21,
+		"name": "Shang Tsung",
+		"minImg": "/ShangTsung_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 22,
+		"name": "Baraka",
+		"minImg": "/Baraka_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 23,
+		"name": "Kabal",
+		"minImg": "/Kabal_min.jpg",
+		"maxImg": ""
+	},
+	{
+		"id": 24,
+		"name": "Raiden",
+		"minImg": "/Raiden_min.jpg",
+		"maxImg": ""
+	}
+]
